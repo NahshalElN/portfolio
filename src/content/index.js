@@ -25,7 +25,7 @@ export default {
     list: [
     {
       title: 'Moxie.ae',
-      link: 'https://moxie.ae',
+      link: 'https://moxie.nahshal.live',
       type: 'website',
       desc: 'Homepage for Moxie Garments Manufacturer LLC.',
       tags: 'JQuery, Pug.js, SCSS'
@@ -46,7 +46,7 @@ export default {
     },
     {
       title: 'My Portfolio',
-      link: 'https://github.com/NahshalElN',
+      link: 'https://github.com/NahshalElN/portfolio/',
       type: 'website',
       desc: 'The Repository for this portfolio, on github.',
       tags: 'React.js, Tailwindcss'
