@@ -32,7 +32,7 @@ export default {
     },
     {
       title: 'AGUHUB',
-      link: 'https://aguhub.nahshal.live',
+      link: 'https://main.dg8pcieqmmvq0.amplifyapp.com	',
       type: 'website',
       desc: 'My Graduation project, a content sharing PWA.',
       tags: 'React.js, Firebase'
