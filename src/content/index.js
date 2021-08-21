@@ -25,14 +25,14 @@ export default {
     list: [
     {
       title: 'Moxie.ae',
-      link: 'https://moxie.nahshal.live',
+      link: 'https://www.moxie.ae',
       type: 'website',
       desc: 'Homepage for Moxie Garments Manufacturer LLC.',
       tags: 'JQuery, Pug.js, SCSS'
     },
     {
       title: 'AGUHUB',
-      link: 'https://aguhub.ml',
+      link: 'https://aguhub.nahshal.live',
       type: 'website',
       desc: 'My Graduation project, a content sharing PWA.',
       tags: 'React.js, Firebase'
