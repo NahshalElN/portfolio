@@ -39,7 +39,7 @@ export default {
     },
     {
       title: 'Demo WP Store',
-      link: 'Https://www.proto-store.tk',
+      link: 'Https://www.proto-shop.tk',
       type: 'website',
       desc: 'Simple eCommerce store made with Wordpress and WooCommerce',
       tags: 'Wordpress, WooCommerce'
