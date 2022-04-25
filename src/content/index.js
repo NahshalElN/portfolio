@@ -38,6 +38,13 @@ export default {
       tags: 'React.js, Firebase'
     },
     {
+      title: 'Demo WP Store',
+      link: 'Https://www.proto-store.tk',
+      type: 'website',
+      desc: 'Simple eCommerce store made with Wordpress and WooCommerce',
+      tags: 'Wordpress, WooCommerce'
+    },
+    {
       title: 'CLS Uniforms',
       link: 'https://shop.clseifert.ae',
       type: 'website',
